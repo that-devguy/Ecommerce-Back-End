@@ -30,15 +30,12 @@ Please follow these steps to install and run the project on your local machine:
 2. Clone the repository
 3. Install dependencies by opening the cloned repository and run the command `npm install` to install all the dependencies required for the back-end
 4. Set up the database by running `mysql -u root -p` and run the command `CREATE DATABASE ecommerce_db;`
-5. Once the database is created you can exit mysql and run the command `npm run seed` to set up the tables
-6. Start the application by running `npm start`
-
 ![Database Creation](/assets/images/create-database.JPG)
-
+5. Once the database is created you can exit mysql and run the command `npm run seed` to set up the tables
 ![Install Seeds](/assets/images/run-seed.JPG)
-
+6. Start the application by running `npm start`
 ![Starting the Application](/assets/images/npm-start.JPG)
-  
+
 ## Usage
   
 To use this project, follow these steps:

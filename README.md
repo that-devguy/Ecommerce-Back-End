@@ -26,12 +26,23 @@ An E-commerce back end that uses the latest technologies so that companies can k
 ## Installation
 
 Please follow these steps to install and run the project on your local machine:
-Installation instructions will be available in a future update.
+1. Install Node.js and MySQL on your local machine
+2. Clone the repository
+3. Install dependencies by opening the cloned repository and run the command `npm install` to install all the dependencies required for the back-end
+4. Set up the database by running `mysql -u root -p` and run the command `CREATE DATABASE ecommerce_db;`
+5. Once the database is created you can exit mysql and run the command `npm run seed` to set up the tables
+6. Start the application by running `npm start`
+
+![Database Creation](/assets/images/create-database.JPG)
+
+![Install Seeds](/assets/images/run-seed.JPG)
+
+![Starting the Application](/assets/images/npm-start.JPG)
   
 ## Usage
   
 To use this project, follow these steps:
-Usage instructions will be available in a future update.
+Follow the [Installation](#installation) Instructions and then refer to the Walkthrough Demo located in the [Project Links](#project-links)
 
 ## Contributing
 
@@ -45,7 +56,7 @@ Testing instructions will be available in a future update.
   
 ## Project Links
   
-Walkthrough Demo:
+Walkthrough Demo: https://drive.google.com/file/d/1QTue8IrIhKX6lmmftvLrpvPThl23dU4f/view?usp=share_link
 
 Github Repository: https://github.com/that-devguy/Ecommerce-Back-End
 

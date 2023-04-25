@@ -42,6 +42,7 @@ Please follow these steps to install and run the project on your local machine:
 ## Usage
   
 To use this project, follow these steps:
+
 Follow the [Installation](#installation) Instructions and then refer to the Walkthrough Demo located in the [Project Links](#project-links)
 
 ## Contributing
@@ -52,6 +53,7 @@ This project is not currently available for contribution.
 ## Tests
 
 To run tests on this project, follow these steps:
+
 Testing instructions will be available in a future update.
   
 ## Project Links
